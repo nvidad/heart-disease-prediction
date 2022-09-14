@@ -1,6 +1,8 @@
 # Heart Disease Prediction Data Science Project
 Data science project on accurately classifying heart disease in patients based on three datasets.
 
+### Python code and more detailed analysis of the dataset can be found in the [heartdisease-prediction.ipynb](/heartdisease-prediction.ipynb) Jupyter Notebook.
+
 ## Heart disease datasets used
 - UCI Cleveland
 - Statlog
@@ -18,5 +20,3 @@ Training and prediction were performed using the **sklearn** Python library.
 ## Confusion matrix results based on 80-20 train-test split for each model
 ![confusion matrix results](/confusion-matrix-results.png)
 The multi-layer perception yielded the highest accuracy in classifying heart disease in this testing.
-
-### Python code and more detailed analysis of the dataset can be found in the [heartdisease-prediction.ipynb](/heartdisease-prediction.ipynb) Jupyter Notebook.
