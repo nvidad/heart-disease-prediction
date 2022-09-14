@@ -1,14 +1,14 @@
 # Heart Disease Prediction Data Science Project
 Data science project on accurately classifying heart disease in patients based on three datasets.
 
-## Heart disease datasets used:
+## Heart disease datasets used
 - UCI Cleveland
 - Statlog
 - Framingham
 
 Data from these datasets were combined and cleaned for missing or nonsensical values, leaving a total of 756 records from the original 918.
 
-## Classification models used:
+## Classification models used
 - Linear Regression
 - Decision Trees
 - Multi-Layer Perceptron
