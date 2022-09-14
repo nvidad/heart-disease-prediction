@@ -19,4 +19,4 @@ Training and prediction were performed using the **sklearn** Python library.
 
 ## Confusion matrix results based on 80-20 train-test split for each model
 ![confusion matrix results](/confusion-matrix-results.png)
-The multi-layer perception yielded the highest accuracy in classifying heart disease in this testing.
+The multi-layer perception (artificial neural network) yielded the highest accuracy in classifying heart disease in this testing.
